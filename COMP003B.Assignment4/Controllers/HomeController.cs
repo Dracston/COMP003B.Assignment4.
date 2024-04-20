@@ -50,7 +50,10 @@ namespace COMP003B.Assignment4_.Controllers
         }
         public IActionResult ThankYou()
         {
+
+           
             return View();
+
         }
     }
 }
